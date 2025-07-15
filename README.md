@@ -21,6 +21,19 @@
 <p align="left">
 </p>
 
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=thurunuhashitha&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="thurunuhashitha" />
+</p>
+
+<p>
+  &nbsp;<img align="center" 
+             src="https://github-readme-stats.vercel.app/api?username=thurunuhashitha&show_icons=true&locale=en&theme=dark" 
+             alt="thurunuhashitha" />
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thurunuhashitha&show_icons=true&locale=en&layout=compact" alt="thurunuhashitha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thurunuhashitha&show_icons=true&locale=en" alt="thurunuhashitha" /></p>
