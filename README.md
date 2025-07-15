@@ -15,20 +15,18 @@
 
 - 🔭 I’m currently working on: **Z-score-based University Course Recommendation System**
 - 🌱 I’m currently learning: **React, Blockchain, Flutter**
-- 👨‍💻 All of my projects are available at: [github.com/thurunuhashitha](https://github.com/thurunuhashitha)
 - 💬 Ask me about: **React.js, Flutter, Firebase, Blockchain (Solidity)**
-- 📫 Reach me at: **hasithathurunu2@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into working code (and I’m funny too 😄)**
 
 ---
 
 <h3 align="left">📫 Connect with me:</h3>
-<!-- Add social links here if you want -->
-<!-- Example: 
+ 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/thurunu-hashitha-242b58265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="hasithathurunu2@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
--->
+ 
 
 ---
 
