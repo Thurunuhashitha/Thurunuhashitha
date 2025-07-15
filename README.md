@@ -20,13 +20,10 @@
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
- 
-<p align="left">
-  <a href="www.linkedin.com/in/thurunu-hashitha-242b58265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="hasithathurunu2@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
- 
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/thurunu-hashitha-242b58265)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:hasithathurunu2@gmail.com)
 
 ---
 
