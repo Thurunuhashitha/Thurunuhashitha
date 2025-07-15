@@ -117,3 +117,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake dark](https://github.com/thurunuhashitha/thurunuhashitha/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://github.com/thurunuhashitha/thurunuhashitha/blob/output/github-contribution-grid-snake.svg)
