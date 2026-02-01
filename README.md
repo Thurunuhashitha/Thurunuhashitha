@@ -13,8 +13,8 @@
 
 ---
 
-- 🔭 I’m currently working on: **Z-score-based University Course Recommendation System**
-- 🌱 I’m currently learning: **React, Blockchain, Flutter**
+- 🔭 I’m currently working on: **Multi User Expenses Tracker System**
+- 🌱 I’m currently learning: **React , Express , MYSQL**
 - 💬 Ask me about: **React.js, Flutter, Firebase, Blockchain (Solidity)**
 - ⚡ Fun fact: **I love turning ideas into working code (and I’m funny too 😄)**
 
