@@ -27,7 +27,7 @@ I enjoy building **real-world applications**, learning new technologies, and tur
 
 ## 🚀 Current Focus
 
-- 🔭 **Project:** Multi-User Expenses Tracker System  
+- 🔭 **Project:** Bus Booking system
 - 🌱 **Learning:** React, Express.js, MySQL  
 - 💡 **Interests:** Full-Stack Development, Mobile Apps, Blockchain, IoT  
 
