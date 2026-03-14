@@ -112,7 +112,7 @@ const thurunu = {
 
 | 🔭 Building | 🌱 Learning | 💡 Exploring |
 |:-----------:|:-----------:|:------------:|
-| Bus Booking System | React · Express.js · MySQL | Blockchain · IoT · System Design |
+|AI-Powered Business Management Suite for SMEs | React · Express.js · MySQL | Blockchain · IoT · System Design |
 
 </div>
 
